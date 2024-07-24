@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adf30af5.css",
+    "main.js": "/static/js/main.058243fd.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Chalageri_Image.jpg": "/static/media/Chalageri_Image.6029292b142d8537ea6d.jpg",
+    "static/media/Resume.Chalageri.pdf": "/static/media/Resume.Chalageri.e45c22c2b0840d4a1836.pdf",
+    "index.html": "/index.html",
+    "main.adf30af5.css.map": "/static/css/main.adf30af5.css.map",
+    "main.058243fd.js.map": "/static/js/main.058243fd.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf30af5.css",
+    "static/js/main.058243fd.js"
+  ]
+}
